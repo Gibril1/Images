@@ -4,7 +4,7 @@
   "description": "Crud Applications for images",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index"
+    "server": "nodemon backend/index.js"
   },
   "author": "Gibril",
   "license": "MIT",
